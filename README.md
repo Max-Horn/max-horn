@@ -35,7 +35,7 @@ For the company a cloud solution is recommended, since they have a small size of
 Out of the four deployment models of a cloud (private, public, community and hybrid cloud) “(the Hybrid Cloud) encompasses the best features of the abovementioned types.”  
 (Yuliya, 2021)
 
-```bash
+
 ![Cloud Deployment](https://www.sam-solutions.com/blog/wp-content/uploads/2021/06/hybrid-cloud@2x-min.png "Cloud Deployment Overview")
 
 The hybrid solution is not cheapest one. However, a company should suggest about risk. If it comes to a data breach the costs can be very high. Thus, “the cost of lost assets must be balanced against the cost of securing the network; your company must decide how much risk it is willing to take.”
