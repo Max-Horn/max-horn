@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-1. [INTRODUCTION-OF-“TRUE-FRUITS”](#Introduction of “true fruits”)
+1. [INTRODUCTION OF “TRUE FRUITS”](#Introduction-of-“true-fruits”)
 2. [IT-INFRASTRUCTURE](#IT-Infrastructure)
-3. [EVALUATION-OF A-CLOUD-SOLUTION](#Evaluation of a Cloud solution)
-4. [RECOMMENDATION-OF-DEPLOYMENT](#Recommendation of Deployment)
+3. [EVALUATION OF A CLOUD SOLUTION](#Evaluation-of-a-Cloud-solution)
+4. [RECOMMENDATION OF DEPLOYMENT](#Recommendation-of-Deployment)
 5. [SOURCES](#Sources)	
 
 
