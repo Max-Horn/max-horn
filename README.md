@@ -1,12 +1,10 @@
-# Assignment | Recommendation Report 
+# Cloud Computing – Recommendation Report (Max Horn | 10621467)
 
-## Cloud Computing – Recommendation Report (Max Horn | 10621467)
-
-### Introduction of “true fruits”
+## Introduction of “true fruits”
 
 The medium-sized company “True Fruits GmbH” was founded in 2006 in Bonn, Germany. It has 31 workers and a revenue of 43 million Euros per year. Their production is focused on fresh-made smoothies. 
 
-### IT-Infrastructure
+## IT-Infrastructure
 
 The IT infrastructure is kept very simple since they only have one location where they are working. The production is set up at other production plants. Since freelancing jobs and home office opportunities were denied, it indicates hardware, non – cloud or traditional IT infrastructure. 
 “A traditional infrastructure consists of the usual hardware and software components like Facilities, data centers, servers, network hardware, desktop computers, and enterprise application software solutions”. (IBM, 2022)
@@ -18,12 +16,12 @@ Therefore, a cloud is creating possibilities to outsource data centers, servers,
 
 
 
-### Evaluation of a Cloud solution
+## Evaluation of a Cloud solution
 
 For the company a cloud solution is recommended, since they have a small size of workers and it makes it easier for sharing important data and to react fast to impedances on the market. Furthermore, they have a big online shop. When there are high volumes of orders or even clicks, you can react to them faster and increase capacity. Workers can work in remote, anywhere where is an internet connection. Therefore, applications can be used over the cloud, which makes it more flexible and cheaper e.g. “Microsoft 365”. Parallel to the flexibility aspect, there is also the advantage of scalability. “The provider has far greater resources than the customer company and can therefore adapt the capacities for computing power, storage and network throughput to demand at any time. “ (ahd, 2021)
 
 
-### Recommendation of Deployment
+## Recommendation of Deployment
 
 Out of the four deployment models of a cloud (private, public, community and hybrid cloud) “(the Hybrid Cloud) encompasses the best features of the abovementioned types.”  
 (Yuliya, 2021)
@@ -39,7 +37,7 @@ The hybrid solution is not cheapest one. However, a company should suggest about
 Summarized, the deployment of a Hybrid Cloud is the best solution, since IT service is laid on third-party companies and the own company is flexible and agile in reacting on different cases on the market. It will also increase your options like rapid scalability on demand (e.g. IaaS) and business beyond building, which means you can work from anywhere. It is friendlier for the environment and your bank account, since you reduce travel to work and you share your resources in a cloud. 
 
 
-### Sources
+## Sources
 
 ahd, 2021. ahd a proact company. [Online] 
 Available at: https://www.ahd.de/welche-cloud-loesungen-fuer-unternehmen-gibt-es/
